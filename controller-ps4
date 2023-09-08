@@ -1,0 +1,4 @@
+@font-face {
+	font-family: controller-ps4;
+	src: url('./fonts/controller-ps4.otf');
+}

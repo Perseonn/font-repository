@@ -1,3 +1,7 @@
 .controller{
-	font-family: "Controller";
+	font-family: controller;
+}
+
+.controller-ps4{
+	font-family: controller-ps4;
 }
